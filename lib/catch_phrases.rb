@@ -8,3 +8,8 @@ def toadstool
   puts status
 end
 
+def link
+    hyrule = "It's Dangerous To Go Alone! Take This."
+    puts hyrule
+end
+
